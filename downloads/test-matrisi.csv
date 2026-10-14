@@ -1,0 +1,13 @@
+id,alan,adim,beklenen,gercek,durum
+T01,form,Boş kodla kayıt gönder,Hata gösterilir ve kayıt oluşmaz,,çalıştırılmadı
+T02,form,Aynı kullanıcıda aynı kodu tekrar ekle,Tekrar reddedilir,,çalıştırılmadı
+T03,form,-1 ve 101 puan gönder,Geçersiz puan reddedilir,,çalıştırılmadı
+T04,arama,İpek ve Işık kayıtlarını Türkçe harflerle ara,Arama tanımlanan Türkçe davranışla sonuç verir,,çalıştırılmadı
+T05,filtre,Arama ve durum filtresini birlikte kullan,İki koşulu karşılayan kayıtlar görünür,,çalıştırılmadı
+T06,arayuz,Hiç sonuç olmayan arama yap,Anlaşılır boş durum gösterilir,,çalıştırılmadı
+T07,erisim,A kendi kaydını okur ve günceller,İşlem izinlidir,,çalıştırılmadı
+T08,erisim,B A kaydını doğrudan kimlikle sorgular,Veri dönmez ve değişiklik yapılamaz,,çalıştırılmadı
+T09,erisim,B owner_id=A ile yeni kayıt ekler,İşlem reddedilir,,çalıştırılmadı
+T10,erisim,Oturum kapalıyken veri oku veya yaz,Anonim işlem reddedilir,,çalıştırılmadı
+T11,otomasyon,Aynı dönem için işi iki kez çalıştır,İstenmeyen tekrar oluşmaz,,çalıştırılmadı
+T12,arayuz,390px ekran ve yalnızca klavyeyle formu kullan,Yatay taşma yok ve odak görünür,,çalıştırılmadı
