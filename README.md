@@ -24,3 +24,7 @@ Repository → Settings → Pages → Deploy from a branch → main → / (root)
 `content.js` eğitim içeriğinin kaynağıdır. `app.js` arayüzü, `style.css` tasarımı içerir. Güncelleme sonrası `node build.mjs` ve `node verify.mjs` çalıştırın. Resmî ürün belgeleri 14 Ekim 2026 tarihinde kontrol edilmiştir; eğitimden önce erişim ve plan koşullarını yeniden doğrulayın. Kaynak belgedeki Dispatch ve Live Artifacts başlıkları hesap erişimine göre alternatif uygulamalarla ele alınır.
 
 Kaynak Word dosyası depoya yüklenmemiştir. Örnek kayıtlar kurgusaldır. Bu içerik bağımsız bir eğitim uyarlamasıdır; Anthropic ile kurumsal ilişki veya sertifika yetkisi iddia etmez.
+
+## Doğrulama
+
+Program süreleri, 30 prompt, 15 uygulama, 100 puanlık rubrik, dosya bağlantıları ve rehber tutarlılığı yapısal kontrolle doğrulandı. Tarayıcıda prompt arama/kopyalama, günlük ilerleme, notların yenileme sonrası kalıcılığı, mini test geri bildirimi ve mobil menü denendi. 390 piksel mobil testinde yatay taşma görülmedi. SQL şablonu bu rehberin kapsamında gerçek veritabanında çalıştırılmadı; katılımcının ayrı eğitim projesinde erişim testleri yapması gerekir.
