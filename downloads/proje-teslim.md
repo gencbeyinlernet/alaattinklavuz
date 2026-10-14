@@ -1,4 +1,6 @@
-# Final proje teslim dosyası
+# Novarge Alaaddin’in Lambası: Yapay Zekâ Ajanları ve Otomasyon Uzmanlığı
+
+## Final proje teslim dosyası
 
 ## Proje
 Adı: [ad]

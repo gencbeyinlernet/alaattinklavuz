@@ -1,4 +1,4 @@
-# Yapay Zekâ Ajanlarıyla Uygulama Geliştirme
+# Novarge Alaaddin’in Lambası: Yapay Zekâ Ajanları ve Otomasyon Uzmanlığı
 
 5 günlük kapsamlı eğitim · 30 saat net eğitim · 14 Ekim 2026
 

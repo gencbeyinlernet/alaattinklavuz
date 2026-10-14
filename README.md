@@ -1,4 +1,4 @@
-# Yapay Zekâ Ajanlarıyla Uygulama Geliştirme
+# Novarge Alaaddin’in Lambası: Yapay Zekâ Ajanları ve Otomasyon Uzmanlığı
 
 Claude-Eğitim.docx programının 10 modülünden geliştirilen 5 günlük uygulamalı eğitim ve Türkçe rehber sitesi.
 

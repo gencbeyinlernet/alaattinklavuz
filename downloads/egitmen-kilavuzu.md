@@ -1,4 +1,6 @@
-# Eğitmen uygulama rehberi
+# Novarge Alaaddin’in Lambası: Yapay Zekâ Ajanları ve Otomasyon Uzmanlığı
+
+## Eğitmen uygulama rehberi
 
 ## Eğitim amacı ve kapsam
 Kaynak programın 10 modülü 5 güne yayılır. Her gün 360 dakika net oturum vardır. Eğitim 09.00–16.30 arasında yürütülür; 10.45 ve 14.00 molaları 15'er dakika, öğle arası 60 dakikadır. Günlük ev çalışması yaklaşık 30 dakika, toplam 30 saate ek olarak planlanır.
