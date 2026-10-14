@@ -9,7 +9,7 @@ Claude-Eğitim.docx programının 10 modülünden geliştirilen 5 günlük uygul
 
 GitHub Pages adresi: https://gencbeyinlernet.github.io/alaattinklavuz/
 
-Günlük akışlar, uygulama adımları, 30 hazır prompt, teknik kılavuz, ölçme değerlendirme, indirilebilir şablonlar ve yaygınlaştırma planı içerir. İlerleme ve notlar yalnızca tarayıcıda saklanır; site Claude'a bağlanmaz.
+Günlük akışlar, 10 ayrıntılı uygulama yolu, 10 program hazırlık kartı, 3 çalışan uygulama örneği, 70 yönlendirici prompt, teknik kılavuz, ölçme değerlendirme, indirilebilir şablonlar ve yaygınlaştırma planı içerir. İlerleme ve notlar yalnızca tarayıcıda saklanır; site Claude'a bağlanmaz.
 
 ## Yerelde çalıştırma
 
@@ -27,4 +27,12 @@ Kaynak Word dosyası depoya yüklenmemiştir. Örnek kayıtlar kurgusaldır. Bu 
 
 ## Doğrulama
 
-Program süreleri, 30 prompt, 15 uygulama, 100 puanlık rubrik, dosya bağlantıları ve rehber tutarlılığı yapısal kontrolle doğrulandı. Tarayıcıda prompt arama/kopyalama, günlük ilerleme, notların yenileme sonrası kalıcılığı, mini test geri bildirimi ve mobil menü denendi. 390 piksel mobil testinde yatay taşma görülmedi. SQL şablonu bu rehberin kapsamında gerçek veritabanında çalıştırılmadı; katılımcının ayrı eğitim projesinde erişim testleri yapması gerekir.
+Program süreleri, 70 prompt, 10 ayrıntılı uygulama yolu, 15 günlük uygulama, 100 puanlık rubrik, dosya bağlantıları ve rehber tutarlılığı yapısal kontrolle doğrulandı. Tarayıcıda prompt arama/kopyalama, günlük ilerleme, notların yenileme sonrası kalıcılığı, mini test geri bildirimi ve mobil menü denendi. CSV örneğinde 13 girdi, 10 kabul, 3 ret ve 65,5 ortalama doğrulandı; rapor indirildi. Takip örneğinde alan doğrulama, ekleme, düzenleme, Türkçe arama, birleşik filtre, silme/geri alma ve yenileme sonrası kalıcılık test edildi. Öğrenme örneğinde beş soruluk döngü, puan ve yeniden başlatma denendi. SQL şablonu bu rehberin kapsamında gerçek veritabanında çalıştırılmadı; katılımcının ayrı eğitim projesinde erişim testleri yapması gerekir.
+
+## Ayrıntılı kılavuz
+
+- Programlar: https://gencbeyinlernet.github.io/alaattinklavuz/#programlar
+- Uygulama yolları: https://gencbeyinlernet.github.io/alaattinklavuz/#atolyeler
+- Çalışan örnekler: https://gencbeyinlernet.github.io/alaattinklavuz/#ornekler
+
+`practical.js` adım adım içerik, `practical-ui.js` kılavuz arayüzüdür. `examples/` üç bağımsız HTML/CSS/JS örneği içerir. CSV mantığı `node verify.mjs` ile olumlu/olumsuz girdilerde doğrulanır. Kod paketi için examples klasörü ile serve.mjs dosyasını ZIP içinde tutun.

@@ -1,0 +1,12 @@
+globalThis.SAMPLE_CSV=`kod,ad,alan,durum,tarih,puan
+K001,Örnek Ada,eğitim,yeni,2026-10-01,40
+K002,Örnek Bora,eğitim,devam,2026-10-02,60
+K003,Örnek Cem,tasarım,tamamlandi,2026-10-03,90
+K004,Örnek Deniz,otomasyon,devam,2026-10-04,70
+K005,Örnek Ece,eğitim,yeni,2026-10-05,30
+K006,Örnek Fırat,tasarım,tamamlandi,2026-10-06,85
+K007,Örnek Güneş,otomasyon,devam,2026-10-07,65
+K008,Örnek Işık,eğitim,tamamlandi,2026-10-08,95
+K009,Örnek İpek,tasarım,yeni,2026-10-09,45
+K010,Örnek Jale,otomasyon,devam,2026-10-10,75`;
+globalThis.INVALID_CSV=globalThis.SAMPLE_CSV+`\nK001,Örnek Tekrar,eğitim,yeni,2026-10-11,50\nK011,,tasarım,yeni,2026-10-12,60\nK012,Örnek Hata,otomasyon,devam,2026-10-13,140`;
